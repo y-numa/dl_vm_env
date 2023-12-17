@@ -1,9 +1,12 @@
 # dl_vm_env
 ## VMの環境
-マシンタイプ：n1-standard-8
-アーキテクチャ：x86/64
-OS：Ubuntu, 20.04 LTS
-GPU：1 x NVIDIA T4
+| 項目 |　詳細 |
+| --- | --- |
+| マシンタイプ | n1-standard-8 |
+| アーキテクチャ | x86/64 |
+| アーキテクチャ | x86/64 |
+| OS | Ubuntu, 20.04 LTS |
+| GPU | 1 x NVIDIA T4 |
 
 ## ファイルの説明
 | ファイル名 |　詳細 |
